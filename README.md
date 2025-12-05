@@ -1,9 +1,16 @@
-# Training Script: Pansharpening/TOOL_SSUN/train_wv2.py
-*(This file is the main script used to run and train SSUN-Net.)*
+<div align="center">
 
-# [AAAI25] SSUN-Net: Spatial-Spectral Prior-Aware Unfolding Network for Pan-Sharpening  
-**Paper Link:** https://ojs.aaai.org/index.php/AAAI/article/view/32296  
-**Authors:** Shijie Fang, Hongping Gan
+# Training Script  
+## **Pansharpening/TOOL_SSUN/train_wv2.py**  
+*(This script runs SSUN-Net training and experiments.)*
+
+# **[AAAI25] SSUN-Net**  
+### Spatial-Spectral Prior-Aware Unfolding Network for Pan-Sharpening  
+
+**Authors:** Shijie Fang · Hongping Gan  
+📄 **AAAI Paper:** https://ojs.aaai.org/index.php/AAAI/article/view/32296
+
+</div>
 
 ---
 
